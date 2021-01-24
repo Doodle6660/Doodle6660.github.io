@@ -1,5 +1,5 @@
 module.exports = {
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/my-project/'
+    ? '/Doodle6660.github.io/'
     : '/'
 }
